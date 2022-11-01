@@ -1,0 +1,54 @@
+Training Epoch: 1/100, Loss: 0.389, Accuracy: 14.830 
+
+Validation Epoch: 1/100, Loss: 0.580, Accuracy: 23.243 
+
+Testing Epoch: 1/100, Accuracy: 23.557 
+
+Training Epoch: 2/100, Loss: 0.372, Accuracy: 19.510 
+
+Validation Epoch: 2/100, Loss: 0.570, Accuracy: 25.214 
+
+Testing Epoch: 2/100, Accuracy: 25.300 
+
+Training Epoch: 3/100, Loss: 0.364, Accuracy: 22.260 
+
+Validation Epoch: 3/100, Loss: 0.592, Accuracy: 24.064 
+
+Testing Epoch: 3/100, Accuracy: 23.879 
+
+Training Epoch: 4/100, Loss: 0.357, Accuracy: 25.870 
+
+Validation Epoch: 4/100, Loss: 0.573, Accuracy: 28.214 
+
+Testing Epoch: 4/100, Accuracy: 28.664 
+
+Training Epoch: 5/100, Loss: 0.350, Accuracy: 26.680 
+
+Validation Epoch: 5/100, Loss: 0.560, Accuracy: 31.150 
+
+Testing Epoch: 5/100, Accuracy: 31.164 
+
+Training Epoch: 6/100, Loss: 0.342, Accuracy: 30.230 
+
+Validation Epoch: 6/100, Loss: 0.560, Accuracy: 24.200 
+
+Testing Epoch: 6/100, Accuracy: 24.607 
+
+Training Epoch: 7/100, Loss: 0.336, Accuracy: 30.370 
+
+Validation Epoch: 7/100, Loss: 0.524, Accuracy: 28.486 
+
+Testing Epoch: 7/100, Accuracy: 28.557 
+
+Training Epoch: 8/100, Loss: 0.332, Accuracy: 31.020 
+
+Validation Epoch: 8/100, Loss: 0.522, Accuracy: 26.193 
+
+Testing Epoch: 8/100, Accuracy: 26.607 
+
+Training Epoch: 9/100, Loss: 0.326, Accuracy: 33.420 
+
+Validation Epoch: 9/100, Loss: 0.496, Accuracy: 28.264 
+
+Testing Epoch: 9/100, Accuracy: 28.757 
+

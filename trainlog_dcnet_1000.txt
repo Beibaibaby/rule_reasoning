@@ -1,0 +1,264 @@
+Training Epoch: 1/100, Loss: nan, Accuracy: 11.400 
+
+Validation Epoch: 1/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 1/100, Accuracy: 12.293 
+
+Training Epoch: 2/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 2/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 2/100, Accuracy: 12.293 
+
+Training Epoch: 3/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 3/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 3/100, Accuracy: 12.293 
+
+Training Epoch: 4/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 4/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 4/100, Accuracy: 12.293 
+
+Training Epoch: 5/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 5/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 5/100, Accuracy: 12.293 
+
+Training Epoch: 6/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 6/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 6/100, Accuracy: 12.293 
+
+Training Epoch: 7/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 7/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 7/100, Accuracy: 12.293 
+
+Training Epoch: 8/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 8/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 8/100, Accuracy: 12.293 
+
+Training Epoch: 9/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 9/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 9/100, Accuracy: 12.293 
+
+Training Epoch: 10/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 10/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 10/100, Accuracy: 12.293 
+
+Training Epoch: 11/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 11/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 11/100, Accuracy: 12.293 
+
+Training Epoch: 12/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 12/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 12/100, Accuracy: 12.293 
+
+Training Epoch: 13/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 13/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 13/100, Accuracy: 12.293 
+
+Training Epoch: 14/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 14/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 14/100, Accuracy: 12.293 
+
+Training Epoch: 15/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 15/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 15/100, Accuracy: 12.293 
+
+Training Epoch: 16/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 16/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 16/100, Accuracy: 12.293 
+
+Training Epoch: 17/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 17/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 17/100, Accuracy: 12.293 
+
+Training Epoch: 18/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 18/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 18/100, Accuracy: 12.293 
+
+Training Epoch: 19/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 19/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 19/100, Accuracy: 12.293 
+
+Training Epoch: 20/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 20/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 20/100, Accuracy: 12.293 
+
+Training Epoch: 21/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 21/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 21/100, Accuracy: 12.293 
+
+Training Epoch: 22/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 22/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 22/100, Accuracy: 12.293 
+
+Training Epoch: 23/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 23/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 23/100, Accuracy: 12.293 
+
+Training Epoch: 24/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 24/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 24/100, Accuracy: 12.293 
+
+Training Epoch: 25/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 25/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 25/100, Accuracy: 12.293 
+
+Training Epoch: 26/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 26/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 26/100, Accuracy: 12.293 
+
+Training Epoch: 27/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 27/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 27/100, Accuracy: 12.293 
+
+Training Epoch: 28/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 28/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 28/100, Accuracy: 12.293 
+
+Training Epoch: 29/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 29/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 29/100, Accuracy: 12.293 
+
+Training Epoch: 30/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 30/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 30/100, Accuracy: 12.293 
+
+Training Epoch: 31/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 31/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 31/100, Accuracy: 12.293 
+
+Training Epoch: 32/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 32/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 32/100, Accuracy: 12.293 
+
+Training Epoch: 33/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 33/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 33/100, Accuracy: 12.293 
+
+Training Epoch: 34/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 34/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 34/100, Accuracy: 12.293 
+
+Training Epoch: 35/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 35/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 35/100, Accuracy: 12.293 
+
+Training Epoch: 36/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 36/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 36/100, Accuracy: 12.293 
+
+Training Epoch: 37/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 37/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 37/100, Accuracy: 12.293 
+
+Training Epoch: 38/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 38/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 38/100, Accuracy: 12.293 
+
+Training Epoch: 39/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 39/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 39/100, Accuracy: 12.293 
+
+Training Epoch: 40/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 40/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 40/100, Accuracy: 12.293 
+
+Training Epoch: 41/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 41/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 41/100, Accuracy: 12.293 
+
+Training Epoch: 42/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 42/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 42/100, Accuracy: 12.293 
+
+Training Epoch: 43/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 43/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 43/100, Accuracy: 12.293 
+
+Training Epoch: 44/100, Loss: nan, Accuracy: 11.600 
+
+Validation Epoch: 44/100, Loss: nan, Accuracy: 12.514 
+
+Testing Epoch: 44/100, Accuracy: 12.293 
+
