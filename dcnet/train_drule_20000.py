@@ -29,8 +29,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--model_name', type=str, default='dcnet')
 parser.add_argument('--dim', type=int, default=64)
 parser.add_argument('--fig_type', type=str, default='*') 
-parser.add_argument('--dataset', type=str, default='RAVEN-FAIR')
-parser.add_argument('--root', type=str, default='/nfs/h1/RAVEN')
+parser.add_argument('--dataset', type=str, default='RAVEN-F')
+parser.add_argument('--root', type=str, default='/localdisk2/RAVEN')
 
 #parser.add_argument('--fig_type', type=str, default='neutral') 
 #parser.add_argument('--dataset', type=str, default='pgm')
@@ -39,7 +39,7 @@ parser.add_argument('--root', type=str, default='/nfs/h1/RAVEN')
 parser.add_argument('--dropout', type=float, default=0.5)
 parser.add_argument('--lr', type=float, default=1e-3)
 parser.add_argument('--epochs', type=int, default=30)
-parser.add_argument('--batch_size', type=int, default=16)
+parser.add_argument('--batch_size', type=int, default=32)
 parser.add_argument('--img_size', type=int, default=96)
 parser.add_argument('--workers', type=int, default=16)
 parser.add_argument('--seed', type=int, default=123)
@@ -53,7 +53,7 @@ parser.add_argument('--k_aug', type=int, default=2)
 
 args = parser.parse_args()
 
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+device = torch.device('cuda:3' if torch.cuda.is_available() else 'cpu')
 
 if torch.cuda.is_available:
     torch.cuda.manual_seed(args.seed)
